@@ -1,1 +1,32 @@
 /* Add your CSS here */
+* {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+}
+.link-container {
+  display: flex;
+  justify-content: space-around;
+}
+.link-item {
+  font-size: 1em;
+  background-color: #b21e4b;
+  padding: 5px 15px;
+  margin-bottom: 10px;
+}
+p {
+
+  width: 70%;
+  margin: 0 auto;
+}

@@ -1,1 +1,26 @@
 /* Add your CSS here */
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+}
+nav {
+  padding-right: 10%;
+  width: 400px;
+  height: 100%;
+}
+dt {
+  color: gray;
+  padding-bottom: 10px;
+}
+dd {
+  margin-left: 20px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
