@@ -1,1 +1,20 @@
 /* Add your CSS here */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+figure {
+  margin-bottom: 75px;
+  border: 1px solid red;
+  width: 125px;
+  height: 175px;
+}
+figcaption {
+}
+h1 {
+  color: #ffbd67;
+  margin: 10px 0px;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
