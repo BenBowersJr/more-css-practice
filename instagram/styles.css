@@ -14,6 +14,10 @@ dt {
   color: gray;
   padding-bottom: 10px;
 }
+dd a {
+  text-decoration: none;
+  color: black;
+}
 dd {
   margin-left: 20px;
   padding-bottom: 20px;
